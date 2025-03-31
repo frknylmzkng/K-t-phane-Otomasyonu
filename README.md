@@ -1,1 +1,1 @@
-# K-t-phane-Otomasyonu
+Kütüphane Otomasyonu
